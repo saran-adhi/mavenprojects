@@ -1,0 +1,17 @@
+Maven:
+Why Maven?
+•	Can manage dependencies
+•	Can maintain project structure
+•	Code build
+•	Creating Documentation
+Terminology
+Group id
+Artifat id
+Version
+Archtype -> Project template
+Dependency/ Dependencies -> Jar files 
+Plugin -> Same as dependency but functional difference (Third-party lib for jars)
+LifeCycle -> multiple phases
+Phases -> 
+Goals ->
+Maven Central Repository ->
